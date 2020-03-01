@@ -1,0 +1,108 @@
+
+Session 1 (4th Feb, Night):
+    Received Task Round Email
+    Studied Minmax Algorithm
+        Geeks For Geeks: First 3 parts
+        Computerphile Video
+    Cloned repository and got running the requirements of Task 2.1
+
+Session 2 (5th Feb, Night):
+    Went through the code base of Task 2.1
+        Figured out the use of the many functions
+    Tried to implementing NOOBtastic Way
+        debugging
+
+Session 3 (6th Feb, Morning):
+    continuing the debugging
+        unsucessful this Session
+    Increase my ubuntu memory (alloted only 50GB to start with)
+
+Session 4 (6th Feb, Night):
+    Taking it slow and testing each function
+    3 hours of debugging
+    Got very close to finish the NOOBtastic method
+    Time to think of an efficient way.
+    Gained clarity of the question
+
+Session 5 (7th Feb, Morning(PDS Lab)):
+    Thought a potential way of executing
+    wrote psuedo code
+
+Session 6 (7th Feb, Afternoon):
+    tried to convert psuedo code to code
+    Debugged the previous NOOB code succesfully
+        Working Totally
+
+Session 7 (7th Feb, Evening - Night):
+    Working But not Totally
+    thought of going to task 2.2 but should continue 2.1
+    After 3.5 hours, draft of better algo complete
+    Testing made class.
+    recognized a flaw
+    installed 16.04 as well for KRSSG but realized didnt need it
+    deleted the partition
+    also accidently deleted grub
+    got that fixed
+    installed KRSSG neccesities
+
+Session 8 (8th Feb, Afternoon):
+    Started to learn OpenCV
+    discontinued right after
+    sorting out the flaw
+
+Session 9 (8th Feb, 4pm):
+    sorting out the flaw till 6pm
+    Installed ubuntu for 6 people Rs50/each.
+    coming back to work 11pm
+    learning socket programming
+
+Session 10 (9th Feb, 9:30 am):
+    continuing socket programming
+    Got base for chatroom and task 1 (KRSSG)
+    Now working on the actual task 1
+    Should be done with task 1 in principle(6pm)
+        needs debugging
+    Reaing FSM for task 2
+
+Sessio 11 (10th Feb, 3pm-4pm):
+    Commenting task 2.1
+
+Session 12 (11th Feb, 7:20pm):
+    Including threadng in Task 1.
+    Done with Task 1 12:00Am
+    Commenting in progress
+    Done Commenting
+
+Session 13 (12th Feb, 10:20am):
+    solving task 2.1
+    not able to think straight
+    i'll work on task 2.2
+
+Session 14 (12th Feb, 6:30pm):
+    making my model for task 2.
+    Part 1 of Task 2 complete 2:12am.
+
+Session 15 (13th Feb, 10am):
+    Improving Part 1 of Task 2
+    Working on part2 of task 2
+    Completed Part 2
+    commenting in progress
+    Done commenting
+    Finished with KRSSG first round of tasks
+
+Session 16 (During MidSem):
+    installed ros
+    went through the first few tutorials on the website
+
+Session 17 (24th Feb, 6pm - 11pm):
+    realized flaw in task 2.1
+    with clearence for new method attempted to execute it
+    shell complete, but wieght not behaving as expected
+
+Session 18 (25th Feb, 2pm):
+    thinking of Different method of deciding weights
+    started task 2.3
+    Completed Task 2.3(1:34am)
+
+This is incomplete
+Got lazy
