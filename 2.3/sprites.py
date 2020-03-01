@@ -1,14 +1,7 @@
 import pygame as pg
 from settings import *
-import cv2
 import sys
 from os import path
-
-
-cascPath1 = "haarcascade_frontalface_alt.xml"
-cascPath = "haarcascade_eye.xml"
-eyeCascade = cv2.CascadeClassifier(cascPath)
-faceCascade = cv2.CascadeClassifier(cascPath1)
 
 
 class Player(pg.sprite.Sprite):
